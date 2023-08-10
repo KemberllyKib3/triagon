@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/564x/86/31/ce/8631ced8c74ab646c51c2852a8d388ea.jpg" alt="Barbaro Carniceiro" style="height: 400px; width:300px;"/>
-<img src="https://media.giphy.com/media/UM9ar6iM06BKooDfdt/giphy.gif" alt="Barbaro Carniceiro" style="height: 400px; width:300px;"/>
+<img src="https://media.giphy.com/media/UM9ar6iM06BKooDfdt/giphy.gif" alt="Barbaro Carniceiro"/>
 
 Bárbaros primais, criados em tribos ou afastados de civilizações, são conhecidos por suas habilidades brutais de luta e sua sede por sangue em batalha, conhecidos por derrotar grandes bestas durante sua vida.
 
