@@ -6,9 +6,8 @@ São guerreiros predestinados pela divindade da guerra Iroh por meio ritualísti
 - Armaduras: Leves
 - Pode usar qualquer arma de dupla empunhadura (duas mãos) ou duas armas de mão única.
 
-# Habilidade única
-## Fúria: 
-Os Bárbaros ganham sua fúria logo no nível 1, sua fúria concede resistência em sua Defesa Física lhe dando a habilidade de receber dano físico pela metade e caso acerte um golpe crítico o Arauto pode rodar um dado de vida extra temporária enquanto estiver em fúria. Sua fúria dura 3 rodadas.
+## Habilidade única
+`Fúria`: Os Bárbaros ganham sua fúria logo no nível 1, sua fúria concede resistência em sua Defesa Física lhe dando a habilidade de receber dano físico pela metade e caso acerte um golpe crítico o Arauto pode rodar um dado de vida extra temporária enquanto estiver em fúria. Sua fúria dura 3 rodadas.
 
 ### Nível 4:
 `Lâminas do Caos`: Concentra chamas do deus da guerra em suas armas em mão, ganhando `1d6` de dano mágico adicional em cada ataque.

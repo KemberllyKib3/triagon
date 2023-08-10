@@ -7,9 +7,8 @@ Comandante de companhias e líder de exércitos, representa o guerreiro em sua m
 - Pode utilizar qualquer arma fisica e escudos
 
 
-# Habilidade única:
-## Olhar treinado: 
-- Concede o bônus de proficiência do General para cada aliado ao iniciar um combate, podendo ser usado uma vez por batalha.
+## Habilidade única
+`Olhar treinado`: Concede o bônus de proficiência do General para cada aliado ao iniciar um combate, podendo ser usado uma vez por batalha.
 
 ### Nível 2:
 `Grito de Provocação`: Todos os inimigos são passam a focar o General, se não passarem em um teste de resistência de Sabedoria contra o atributo de Carisma do General.

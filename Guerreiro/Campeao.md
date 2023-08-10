@@ -6,9 +6,8 @@ Grande guerreiro de arenas e coliseus, seu grande poder vem de sua mobilidade em
 - Armaduras: Todas ou robes mágicos.
 - Pode utilizar qualquer arma física de empunhadura simples em conjunto com escudos
 
-# Habilidade única:
+## Habilidade única
 `Surto de Ação`: Podendo refazer sua ação logo em seguida, podendo usar uma vez a cada batalha.
-
 
 ### Nível 8:
 `Surto de Reação`: Uma vez por batalha o campeão consegue refazer sua reação.
