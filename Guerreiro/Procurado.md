@@ -10,14 +10,14 @@ Durante sua passagem na academia de guerreiros, este renunciou suas promessas pa
 `Presença do guardião`: Ao entrar em uma batalha o procurado emana uma aura de medo que aterroriza 1d6 inimigos, caso eles falhem em um teste de resistência de sabedoria serão amedrontados e o primeiro ataque do procurado receberá `+2` de acerto.
 
 ### Nível 3:
-`Couraça da vingança`: Recebe 3 ataques sofridos libera sua aura impiedosa ganhando `1d8 + Constituição` de vida temporária que irá durar 2 turnos
+- `Couraça da vingança`: Recebe 3 ataques sofridos libera sua aura impiedosa ganhando `1d8 + Constituição` de vida temporária que irá durar 2 turnos
 
 ### Nível 10:
 - O bônus de Couraça da vingança sobe para `2d8 + Constituição`.
 - Recebe seu ataque extra.
 
 ### Nível 5:
-`Corte Lacerante`: O ataque do procurado causa dano não somente no seu alvo, mas também causa metade do dano em um inimigo adjacente ao alvo principal.
+- `Corte Lacerante`: O ataque do procurado causa dano não somente no seu alvo, mas também causa metade do dano em um inimigo adjacente ao alvo principal.
 
 ### Nível 8:
 - Ganha a habilidade de Dupla Empunhadura, podendo realizar dois ataques consecutivos no mesmo alvo.

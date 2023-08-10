@@ -11,13 +11,13 @@ Comandante de companhias e líder de exércitos, representa o guerreiro em sua m
 `Olhar treinado`: Concede o bônus de proficiência do General para cada aliado ao iniciar um combate, podendo ser usado uma vez por batalha.
 
 ### Nível 2:
-`Grito de Provocação`: Todos os inimigos são passam a focar o General, se não passarem em um teste de resistência de Sabedoria contra o atributo de Carisma do General.
+- `Grito de Provocação`: Todos os inimigos são passam a focar o General, se não passarem em um teste de resistência de Sabedoria contra o atributo de Carisma do General.
 
 ### Nível 4:
-`Contra Ataque Impiedoso`: O General ganha a capacidade de contra atacar qualquer ataque em proximidade que não passa de sua Defesa Física.
+- `Contra Ataque Impiedoso`: O General ganha a capacidade de contra atacar qualquer ataque em proximidade que não passa de sua Defesa Física.
 
 ### Nível 8:
-`Bastião Imortal`: O General adota uma postura defensiva ganhando +5 no seu bônus de Defesa Física por `1d8` rodadas.
+- `Bastião Imortal`: O General adota uma postura defensiva ganhando +5 no seu bônus de Defesa Física por `1d8` rodadas.
 
 ### Nível 9:
 - O Grito de Provocação pode ser usado como reação.
