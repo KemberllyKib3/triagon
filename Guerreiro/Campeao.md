@@ -22,16 +22,16 @@ Caso o inimigo consiga esquivar da Investida, sofre um ataque de oportunidade, c
 Caso o oponente esteja derrubado, o ataque do campeão ganha um crítico aprimorado `19` ou `20`.
 
 ### Nível 5:
-`Mestre de Armas`: Ganha especialidade em um único tipo de arma ganhando +1 em acerto e dano por ataque com a arma escolhida.
+`Mestre de Armas`: Ganha especialidade em um único tipo de arma ganhando `+1` em acerto e dano por ataque com a arma escolhida.
 
 ### Nível 10: 
 Recebe seu ataque extra.
 
 ### Nível 12: 
-O bônus de Mestre de Armas se torna `+2` para acerto e dano.
+O bônus de Mestre de Armas se torna `2 + 1d4` para acerto e dano.
 
 ### Nível 18: 
-O bônus de Mestre de Armas se torna `+4` para acerto e dano.
+O bônus de Mestre de Armas se torna `4 + 1d4` para acerto e dano.
 
 
 
