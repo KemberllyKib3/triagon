@@ -1,3 +1,5 @@
+![Barbaro Carniceiro](https://i.pinimg.com/564x/86/31/ce/8631ced8c74ab646c51c2852a8d388ea.jpg "Barbaro Carniceiro")
+
 Bárbaros primais, criados em tribos ou afastados de civilizações, são conhecidos por suas habilidades brutais de luta e sua sede por sangue em batalha, conhecidos por derrotar grandes bestas durante sua vida.
 
 - Dado de vida: `d10`
