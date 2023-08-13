@@ -7,9 +7,10 @@
 - **Armaduras:** Leves
 - **Armas:** Lâminas simples e ocultas, podendo usar uma em cada mão
 
-## Habilidades Únicas
+## Habilidades Única
 `Linguajar Adaptativo`: Permite decifrar códigos, reconhecer sotaques, evitar confusões e assumir diferentes identidades sociais. Isso capacita os Ardilosos a usar a linguagem como uma ferramenta poderosa para atingir objetivos, seja em negociações, investigações secretas ou interações culturais diversas, ganhando vantagens em testes sociais.
 
+## Evoluções
 ### Nível 3
 - `Mãos Leves`: O Ladino pode roubar pessoas e bolsas quase que de forma imperceptível. Se o alvo for uma criatura viva, precisa de um teste de `Percepção` contra a CD de `Inteligência` do Ladino.
 
@@ -23,13 +24,13 @@
 - `Bomba de Luz`: O ladino ganha a habilidade de confeccionar uma bomba personalizada, misturando uma explosão luminosa com fragmentos de vidro, criando uma distração ótica para quem estiver na linha de visão da bomba, dando ao ladino uma ação bônus instantânea para entrar furtividade, aqueles que estiverem em um raio de `6m` da bomba devem fazer uma resistência de `Agilidade`, caso falhem eles levam `2d6` de dano.
 
 ### Nível 10
-- O Ladino desenvolve **Mãos Leves** ao nível de poder furtar alvos tanto em combate quanto fora, que agora tem `desvantagem` para o teste de `Percepção`.
+- O Ladino desenvolve *Mãos Leves* ao nível de poder furtar alvos tanto em combate quanto fora, que agora tem `desvantagem` para o teste de `Percepção`.
 
 ### Nível 13
-- **Lâminas Pontuais** podem ser usadas em ação bônus, não precisando de `1` turno de foco e o bônus de `3d6` de dano.
+- *Lâminas Pontuais* podem ser usadas em ação bônus, não precisando de `1` turno de foco e o bônus de `3d6` de dano.
 
 ### Nível 15
 - `Assassinato Sanguinário`: Os Ladinos enquanto furtivos podem desferir ataques letais que causam dano extra de `5d6`.
 
 ### Nível 19
-- O Ladino pode aproveitar seus golpes precisos usando **Assassinato Sanguinário** para infligir ferimentos graves ao alvo.
+- O Ladino pode aproveitar seus golpes precisos usando *Assassinato Sanguinário* para infligir ferimentos graves ao alvo.

@@ -7,11 +7,12 @@
 - **Armaduras:** Robes leves
 - **Armas:** Não utiliza
 
-## Habilidade Única
+## Habilidade Únicas
 `Caminho:` Escolha qual caminho o monge irá seguir e tendo acessos parciais a outra usando pontos de Chi
 - **Harmonia (Bem):** Os monges que seguem o Caminho da Harmonia buscam equilibrar as energias, focando na cura, proteção e apoio aos aliados. Eles têm a habilidade de canalizar a energia positiva do yin para curar feridas, fortalecer a si mesmos e criar barreiras de proteção.
 - **Dualidade (Mal):** Aqueles que escolhem o Caminho da Dualidade dominam a manipulação das energias negativas, utilizando o yang sombrio para causar dano e semear o caos. Eles podem lançar sombras, enfraquecer inimigos e explorar o lado obscuro para seus próprios fins.
 
+## Evoluções
 ### Nível 1
 - **Toque da Cura (Bem):** O monge pode usar sua energia Yin para curar ferimentos e restaurar a saúde dos aliados em `1d6`.
 - **Toque Sombrio (Mal):** O monge pode canalizar o yang sombrio para causar dano necrótico adicional de `1d4` ao seu golpe.

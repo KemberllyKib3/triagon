@@ -7,9 +7,10 @@
 - **Armaduras:** Todas
 - **Armas:** Armas físicas e escudos
 
-## Habilidades Únicas
+## Habilidades Única
 `Olhar Treinado`: Concede o bônus de `Proficiência` do general para cada aliado ao iniciar um combate, podendo ser usado uma vez por batalha.
 
+## Evoluções
 ### Nível 2
 - `Grito de Provocação`: Todos os inimigos são pressionados a focar o general. Se não passarem em um teste de resistência de `Sabedoria` contra o atributo de `Carisma` do general, serão forçados a concentrar seus ataques nele.
 
@@ -20,13 +21,13 @@
 - `Bastião Imortal`: O general adota uma postura defensiva, ganhando `+5` no seu bônus de defesa física por `1d8` rodadas.
 
 ### Nível 9
-- O **Grito de Provocação** pode ser usado como reação.
+- O *Grito de Provocação* pode ser usado como reação.
 
 ### Nível 10
-- **Olhar Treinado** pode ser realizado duas vezes por batalha.
+- *Olhar Treinado* pode ser realizado duas vezes por batalha.
 
 ### Nível 15
-- O bônus do **Bastião Imortal** aumenta para `2 + 1d8` rodadas.
+- O bônus do *Bastião Imortal* aumenta para `2 + 1d8` rodadas.
 
 ### Nível 20
-- O bônus do **Bastião Imortal** passa a ser `4 + 1d8` rodadas.
+- O bônus do *Bastião Imortal* passa a ser `4 + 1d8` rodadas.

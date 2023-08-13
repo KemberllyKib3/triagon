@@ -26,10 +26,10 @@
 - Recebe `1` golpe extra.
 
 ### Nível 11
-- A **Bainha das Ruas** aumenta o bônus de acerto para `3` pontos.
+- A *Bainha das Ruas* aumenta o bônus de acerto para `3` pontos.
 
 ### Nível 13
-- O **Olhar do Abismo** pode ser focado em dois alvos simultaneamente.
+- O *Olhar do Abismo* pode ser focado em dois alvos simultaneamente.
 
 ### Nível 18
 - `Lâmina Estratégica`: A perícia afiada do ronin em detectar os pontos fracos dos oponentes permite que ele execute golpes precisos para desencorajar ações inimigas. O alvo deve fazer um teste de Resistência de Constituição contra uma dificuldade de `10 + Sabedoria`. Em caso de falha, o alvo sofre uma penalidade de `-2` em sua ação até o final da batalha, podendo acumular até `2` vezes.

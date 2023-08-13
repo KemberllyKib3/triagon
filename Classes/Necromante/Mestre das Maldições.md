@@ -13,6 +13,7 @@
   - **Maldição do Veneno:** Ao sentir o cheiro do sangue do Necromante, o alvo deve fazer um teste de `Constituição` ou ficará envenenado, tomando `1d6` de dano por `1d4` rodadas.
   - **Maldição da Paralisia:** Ao tocar no Necromante, o alvo deve fazer um teste de `Constituição` para não ficar paralisado por `1d4` rodadas, podendo repetir o teste.
 
+## Evoluções
 ### Nível 5
 - `Pesadelo`: A cada ataque em alvo afetado por suas maldições, o Necromante recupera `seu atributo de Inteligência` em vida.
 
@@ -26,10 +27,10 @@
 - Gasta `15` PV para Pactos de Sangue e aumenta `1d10` Rodada e `2d10` de dano.
 
 ### Nível 14
-- Os golpes usando **Pesadelo** do Necromante curam atualmente o dano da sua arma + `Inteligência + Proficiência`.
+- Os golpes usando *Pesadelo* do Necromante curam atualmente o dano da sua arma + `Inteligência + Proficiência`.
 
 ### Nível 16
 - `Sacrifício Macabro:` O Necromante sacrifica `40` pontos de sua vida para que seu próximo ataque seja um crítico natural, deixando também `2 Ferimentos Graves`, 1 vez por batalha.
 
 ### Nível 19
-- O **Sacrifício Macabro** agora custará `50` PV, podendo ser usado `3` vezes por batalha.
+- O *Sacrifício Macabro* agora custará `50` PV, podendo ser usado `3` vezes por batalha.

@@ -13,6 +13,7 @@
   - **Postura do Tigre:** Adotando uma postura defensiva e cautelosa, o kensei concentra-se em proteger-se. Isso lhe concede um aumento de `+2` em sua defesa, mas o sacrifício é uma penalidade de `-2` em suas jogadas de acerto e dano.
   - **Postura da Carpa:** Incorporando a agilidade e a vivacidade da carpa, o kensei recebe vantagem no primeiro ataque a um oponente. Entretanto, seu deslocamento é limitado a `6m`.
 
+## Evoluções
 ### Nível 4
 - `Proteção de Honra`: O Kensei pode usar sua reação para bloquear um golpe recebido e corpo a corpo a qualquer momento `1` vez por rodada.
 
@@ -24,13 +25,13 @@
 
 ### Nível 10
 - `Dever Inabalável`: O kensei ganha vantagem para resistir a habilidades como enganação, persuasão e intimidação.
-- O Kensei, pode dar um chute em seu adversário ao usar Proteção de Honra. O alvo deve superar um teste de resistência de Constituição, com uma CD igual à força do Kensei.
+- O Kensei, pode dar um chute em seu adversário ao usar *Proteção de Honra*. O alvo deve superar um teste de resistência de `Constituição`, com uma CD igual à `Força` do Kensei.
 
 ### Nível 15
 - O bônus e perdas das posturas mudam para `+4` e `-4` e ganha crítico aprimorado `19-20`.
 
 ### Nível 16
-- O Kensei ao bloquear um golpe usando Proteção de Honra, pode tentar desarmar o adversário, lançando sua arma a uma distância de `6m`. O alvo deve superar um teste de resistência de `Força`, com uma CD igual à `Força` do Kensei.
+- O Kensei ao bloquear um golpe usando *Proteção de Honra*, pode tentar desarmar o adversário, lançando sua arma a uma distância de `6m`. O alvo deve superar um teste de resistência de `Força`, com uma CD igual à `Força` do Kensei.
 
 ### Nível 18
 - Contra um Samurai Ronin, o Kensei ganha a habilidade de usar três posturas ao mesmo tempo, sem sofrer penalidade das posturas.

@@ -7,13 +7,14 @@
 - **Armaduras:** Não utiliza
 - **Armas:** Não utiliza
 
-## Habilidade Única
+## Habilidade Únicas
 `Domínio Natural`: O shaolin aprende em sua primeira forma a controlar seu chi no domínio de um elemento natural, ficando a sua escolha qual elemento ele começa:
 - **Ar:** Consegue redirecionar projéteis simples (Físicos e Mágicos) lançados em sua direção.
 - **Água (Passos Leves):** Pode andar por cima da água por `1d4` minutos (Em situações fora de combate).
 - **Terra:** Ganha a sensitividade ao ambiente terrestre, consegue identificar passos ao seu redor por `6m`.
 - **Fogo:** Suas mãos são imbuídas de chamas e seus golpes se tornam mágicos causando `1d4` adicional, atacando diretamente a defesa mágica do oponente.
 
+## Evoluções
 ### Nível 5
 - **Ar (Movimentos Aéreos):** Ganha a habilidade de usar um dash de `6m` como reação, `1` vez por batalha.
 - **Água (Água Sagrada):** O monge consegue curar com suas palmas por toque `4 + Sabedoria`.

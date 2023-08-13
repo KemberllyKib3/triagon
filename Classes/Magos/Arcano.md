@@ -10,41 +10,42 @@
 ## Habilidades Únicas
 - `Canalização Elemental`: O mago gasta seu turno para conjurar magias mais poderosas do que o comum, concentrando todo seu conhecimento.
 
+## Evoluções
 ### Nível 1
-- Mago pode realizar Conjurações Iniciais.
+- Mago pode realizar `Conjurações Iniciais`.
 
 ### Nível 3
-- As magias de **Conjuração Inicial** recebem mais `1d6` no dano.
+- As magias de *Conjuração Inicial* recebem mais `1d6` no dano.
 
 ### Nível 6
-- As magias de **Conjuração Inicial** recebem mais `1d6` no dano.
+- As magias de *Conjuração Inicial* recebem mais `1d6` no dano.
 
 ### Nível 8
-- Mago pode realizar **Conjurações Médias**.
+- Mago pode realizar `Conjurações Médias`.
 
 ### Nível 9
-- As magias de **Conjuração Inicial** recebem mais `1d6` no dano.
+- As magias de *Conjuração Inicial* recebem mais `1d6` no dano.
 
 ### Nível 11
-- Magias de **Conjurações Médias** recebem mais `1d8` no dano.
+- Magias de *Conjurações Médias* recebem mais `1d8` no dano.
 
 ### Nível 13
-- Mago pode realizar **Conjurações Avançadas**.
+- Mago pode realizar `Conjurações Avançadas`.
 
 ### Nível 14
-- Magias de **Conjurações Médias** recebem mais `1d8` no dano.
+- Magias de *Conjurações Médias* recebem mais `1d8` no dano.
 
 ### Nível 15
-- Magias de **Conjurações Avançadas** recebem mais `1d10` no dano.
+- Magias de *Conjurações Avançadas* recebem mais `1d10` no dano.
 
 ### Nível 16
-- Magias de **Conjurações Médias** recebe mais `1d8` no dano.
+- Magias de *Conjurações Médias* recebe mais `1d8` no dano.
 
 ### Nível 18
-- Magias de **Conjuração Avançada** recebem mais `1d10` no dano.
+- Magias de *Conjuração Avançada* recebem mais `1d10` no dano.
 
 ### Nível 20
-- Magias de **Conjuração Avançada** recebem mais `1d10` no dano.
+- Magias de *Conjuração Avançada* recebem mais `1d10` no dano.
 
 
 ## **Observações:**
