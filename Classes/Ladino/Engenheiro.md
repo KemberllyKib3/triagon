@@ -7,6 +7,8 @@
 - **Armaduras:** Leves
 - **Armas:** Lâminas curtas, bestas de mão e Facas de arremesso
 
+<img src="https://i.pinimg.com/564x/0b/e6/db/0be6dbde9032e9c4232901f8944ec549.jpg" alt="Ladino Engenheiro" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 `Código das Ruas`: Os Ladinos Engenheiros têm uma compreensão profunda dos códigos e sinais usados pelos ladinos para se comunicar de maneira discreta e eficaz.
 
