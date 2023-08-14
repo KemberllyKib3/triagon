@@ -14,7 +14,7 @@
 
 ## Evoluções
 ### Nível 3
-- `Mãos Leves`: O Ladino pode roubar pessoas e bolsas quase que de forma imperceptível. Se o alvo for uma criatura viva, precisa de um teste de `Percepção` contra a CD de `Inteligência` do Ladino.
+- `Mãos Leves`: O Ladino pode roubar pessoas e bolsas quase que de forma imperceptível. Se o alvo for uma criatura viva, precisa de um teste de `Percepção` contra a CD de `Destreza` do Ladino.
 
 ### Nível 5
 - `Lâminas Pontuais`: O Ladino pode focar (`1` turno) nos pontos frágeis em inimigos e atacar com `2d6` de dano adicional e ignorando resistências de armaduras.
@@ -35,4 +35,4 @@
 - `Assassinato Sanguinário`: Os Ladinos enquanto furtivos podem desferir ataques letais que causam dano extra de `5d6`.
 
 ### Nível 19
-- O Ladino pode aproveitar seus golpes precisos usando *Assassinato Sanguinário* para infligir ferimentos graves ao alvo.
+- O Ladino pode aproveitar seus golpes precisos usando *Assassinato Sanguinário* para infligir ferimentos graves ao alvo `1` vez por descanso longo.

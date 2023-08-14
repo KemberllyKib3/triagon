@@ -15,7 +15,7 @@
 - `Campo Pútrido:` Exala um campo de pútrido em uma área de `3m` de raio ao redor do Necromante. Ao entrar nessa área, o alvo deve fazer um teste de `Constituição` ou terá desvantagem em todas as suas ações.
 
 ### Nível 5
-- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora `+4` de bônus.
+- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora `+3` de bônus.
 
 ### Nível 7
 - `Coordenação da Praga` O Necromante conduzirá seus enxames de forma extremamente coordenada:
@@ -23,13 +23,13 @@
   - **Ofensivo:** Ao atacar com a *Nuvem de Praga*, o inimigo tem visibilidade e deslocamento reduzido a `1,5m`.
 
 ### Nível 10
-- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora `+6` de bônus.
+- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora cura `1d6 + Inteligência` ao Necromante.
 
 ### Nível 13
 - O Necromante ganha bônus de `Proficiência` em dano dentro do *Campo Pútrido*.
 
 ### Nível 16
-- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora `+8` de bônus.
+- Sua *Nuvem de Praga* aumenta 1 nível, concedendo agora `+4` de bônus.
 
 ### Nível 18
 - A *Nuvem de Praga* agora infringe dano adicional necrótico de `2d6`.

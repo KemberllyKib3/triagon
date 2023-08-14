@@ -14,18 +14,18 @@
   - **Impulso Temporal:** Permite que um aliado receba um bônus de Sabedoria do Mago na sua iniciativa de combate.
 
 ## Evoluções
-### Nível 4:
+### Nível 4
 - `Efeito Retroativo`: Aplica um efeito mágico a um alvo que só se manifesta após um atraso, como curar `1d6 + Inteligência` ou dar `1d6 + Inteligência` de dano, em um atraso de `1d4` rodadas.
 
-### Nível 7:
-- `Reversão temporal`: O mago canaliza energia podendo retornar no tempo um aliado, lhe concedendo um surto de ação, 1 vez por batalha.
+### Nível 7
+- `Reversão temporal`: O mago canaliza energia podendo retornar no tempo um aliado em ate `9m`, lhe concedendo um surto de ação, 1 vez por batalha.
 
-### Nível 8:
+### Nível 8
 - O mago usando *Visão do Passado* agora pode acessar memórias passadas de pessoas.
 - *Ruptura Temporal* agora paralisa o inimigo concedendo vantagens de acerto de qualquer ataque desferido.
 - O *Impulso Temporal* agora permite que o aliado escolhido seja o primeiro na iniciativa.
 
-### Nível 9:
+### Nível 9
 - *Efeito Retroativo* concede um bônus de cura e dano que passa a ser `3d6 + Inteligência` por `1d4` rodadas.
 
 ### Nível 12

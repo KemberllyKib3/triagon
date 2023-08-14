@@ -1,7 +1,7 @@
 # Mestre das Maldições
 **O mais sinistro dos Necromantes, dedicado a semear tormento e morte lenta entre seus alvos. Um mestre na arte de extrair informações por meio da dor e do desespero.**
 
-- **Dado de vida:** `d10`
+- **Dado de vida:** `d12`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armaduras:** Robes mágicos
@@ -33,4 +33,4 @@
 - `Sacrifício Macabro:` O Necromante sacrifica `40` pontos de sua vida para que seu próximo ataque seja um crítico natural, deixando também `2 Ferimentos Graves`, 1 vez por batalha.
 
 ### Nível 19
-- O *Sacrifício Macabro* agora custará `50` PV, podendo ser usado `3` vezes por batalha.
+- O *Sacrifício Macabro* agora custará `50` PV, podendo ser usado `2` vezes por batalha.

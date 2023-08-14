@@ -20,7 +20,7 @@
 - `Mestre de Armadilhas`: Podem criar e desarmar armadilhas com `+2` de bônus.
 
 ### Nível 6
-- `Visão de Jogo`: Os Ladinos podem analisar rapidamente o campo de batalha e dar ordens a seus aliados, concedendo bônus tático de `+2` a ataques e defesas.
+- `Visão de Jogo`: Os Ladinos podem analisar rapidamente o campo de batalha e dar ordens a seus aliados, concedendo bônus tático de `+2` a ataques e defesas por `1d4` rodadas.
 
 ### Nível 8
 - *Mestre de Armadilhas* agora permite o Ladino lançar armadilhas que se armam sozinhas.

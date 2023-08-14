@@ -8,7 +8,7 @@
 - **Armas:** Itens de Conjuração
 
 ## Habilidades Única
-- `Senhor da Morte:` Concede a um morto vivo o poder de reinar em seu catalisador de alma. Ganhando um bônus de vida por alma devorada (`1 + Inteligência`).
+- `Senhor da Morte:` Concede a um morto vivo o poder de reinar em seu catalisador de alma. Ganhando `1` ponto de vida por alma devorada.
 
 ## Evoluções
 ### Nível 3
