@@ -18,7 +18,3 @@
 ### Grimórios
 - [Ver Conjurações](https://github.com/KemberllyKib3/triagon/tree/main/Grimórios/Conjurações)
 - [Ver Feitiços](https://github.com/KemberllyKib3/triagon/tree/main/Grimórios/Feitiços)
-
-
-
-
