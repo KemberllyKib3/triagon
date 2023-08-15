@@ -4,7 +4,6 @@
 - **Dado de vida:** `d8`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
-- **Armaduras:** Leves
 - **Armas:** Lâminas simples e ocultas, podendo usar uma em cada mão
 
 <img src="https://i.pinimg.com/564x/70/03/e7/7003e7fb8b742517bb5440350adfa242.jpg" alt="Ladino Ardiloso" style="height: 400px; width:300px;"/>

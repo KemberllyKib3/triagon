@@ -5,7 +5,6 @@
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armas:** Lâminas, incensos e itens conjuradores.
-- **Armaduras:** Robes mágicos e armaduras leves
 
 ## Habilidades Única
 - `Escudo do Orvalho`: Sua conexão com a natureza aumenta, conseguindo até mesmo conjurar a proteção dos orvalhos em você ou seu aliado, protegendo em `1d6` na sua defesa por `1d4` turnos.
@@ -15,7 +14,7 @@
 - `Brisa Verdejante`: Pedindo a bênção das florestas, o Clérigo consegue conjurar uma onda de vitalidade de `3m`, curando seu aliado em `2d6 + Carisma`.
 
 ### Level 5
-- `Surto da Vida`: Um grande surto de energia natural surge a partir do Clérigo em `9m`, podendo curar seus aliados ao mesmo tempo, uma vez por batalha.
+- `Surto da Vida`: Um grande surto de energia natural surge a partir do Clérigo em `9m`, podendo curar, em `2d6` pontos de vida,  seus aliados ao mesmo tempo, uma vez por batalha.
 
 ### Nível 8
 - O Clérigo poderá ajudar `2` aliados com seu *Escudo de Orvalho*.

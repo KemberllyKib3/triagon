@@ -4,7 +4,6 @@
 - **Dado de vida:** `d6`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Armaduras:** Robes Mágicos.
 - **Armas:** Focos Arcanos.
 
 ## Habilidades Únicas

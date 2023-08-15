@@ -4,7 +4,6 @@
 - **Dado de vida:** `d10`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Armaduras:** Nenhuma
 - **Armas:** Armas de duas mãos ou dupla empunhadura de armas simples
 
 ## Habilidades Única

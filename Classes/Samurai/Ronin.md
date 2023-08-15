@@ -4,8 +4,7 @@
 - **Dado de vida:** `d10`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + atributo conjuratório`
-- **Armaduras:** Nenhuma
-- **Pode usar:** Lâminas de mão única
+- **Armas:** Lâminas de mão única
 
 ## Habilidades Única
 `Sem Honra:` O Ronin, com sua aguçada reação, tem a habilidade de contra-atacar inimigos que falham em atingi-lo.

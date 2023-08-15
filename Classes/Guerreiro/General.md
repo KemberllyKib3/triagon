@@ -4,7 +4,6 @@
 - **Dado de vida:** `d12`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Armaduras:** Todas
 - **Armas:** Armas físicas e escudos
 
 ## Habilidades Única

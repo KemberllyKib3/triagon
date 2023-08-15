@@ -4,7 +4,6 @@
 - **Dado de vida:** `d8`
 - **Defesa física Base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Armaduras:** Robes leves
 - **Armas:** Itens de Conjuração
 
 ## Habilidades Única

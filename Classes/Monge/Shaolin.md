@@ -4,7 +4,6 @@
 - **Dado de vida:** `d8`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
-- **Armaduras:** Não utiliza
 - **Armas:** Não utiliza
 
 ## Habilidade Únicas

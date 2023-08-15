@@ -4,7 +4,6 @@
 - **Dado de vida:** `d12`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
-- **Armaduras:** Leves
 - **Armas:** Armas de duas mãos ou dupla empunhadura de armas simples
 
 ## Habilidade Única

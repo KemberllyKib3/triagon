@@ -5,7 +5,6 @@
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armas:** Martelos, maças e armas de conjuração
-- **Armaduras:** Robes mágicos e armaduras leves
 
 ## Habilidades Única
 - `Benção dos Raios`: O Clérigo da Tempestade consegue cobrir seu corpo com relâmpagos e trovões para se proteger de golpes físicos aumentando sua CA (`Proficiência`).

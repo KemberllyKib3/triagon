@@ -4,7 +4,6 @@
 - **Dado de vida:** `D12`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Armaduras:** Leves, médias e pesadas
 - **Armas:** Lâminas de dupla empunhadura ou Arcos-Escudo
 
 ## Habilidades Únicas
@@ -21,6 +20,7 @@
 - `Dever Inabalável`: O kensei ganha vantagem para resistir a habilidades como enganação, persuasão e intimidação.
 
 ### Nível 7
+
 - O bônus e perdas das posturas mudam para `+3` e `-3` e recebe `1` ataque extra na Postura da Carpa podendo andar apenas `4m`.
 
 ### Nível 10
