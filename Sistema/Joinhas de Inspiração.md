@@ -12,7 +12,7 @@ Após a sessão da aventura, reserve um tempo para uma discussão em grupo. Cada
 ## Categorias de Reconhecimento
 - `Melhor Roleplay` Bônus concedido por interpretar muito bem o personagem.
 - `Estratégia Brilhante` Bônus concedido por uma jogada muito inteligente.
-- `Tiozão` Bônus concedido por uma ótima piada.
+- `Tiozão` Bônus concedido por uma ótima piada dentro da roleplay.
 - `Valesca Popozuda` Bônus concedido por uma roleplay filosófica.
 - `Jogador de Volei` Bônus concedido por ter tido uma ótima sacada.
 - `Contribuição para a História` Bônus concedido por contribuir para a história.
