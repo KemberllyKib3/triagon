@@ -7,6 +7,8 @@
 - **Armaduras:** Robes mágicos
 - **Pode utilizar:** Armas mágicas e itens conjuradores
 
+<img src="" alt="Mestre das Maldições" style="height: 400px; width:300px;"/>
+
 ## Habilidades Únicas
 `Pacto de Sangue:` O Necromante sacrifica `5` de vida para ativar suas maldições.
   - **Maldição do Sono:** A cada `3` rodadas, até realizar um descanso curto, o inimigo deve fazer um teste de `Constituição` para não dormir por `1d4` rodadas.

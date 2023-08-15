@@ -7,6 +7,8 @@
 - **Armaduras:** Robes leves
 - **Armas:** Não utiliza
 
+<img src="" alt="Monge Nirvana" style="height: 400px; width:300px;"/>
+
 ## Habilidade Únicas
 `Caminho:` Escolha qual caminho o monge irá seguir e tendo acessos parciais a outra usando pontos de Chi
 - **Harmonia (Bem):** Os monges que seguem o Caminho da Harmonia buscam equilibrar as energias, focando na cura, proteção e apoio aos aliados. Eles têm a habilidade de canalizar a energia positiva do yin para curar feridas, fortalecer a si mesmos e criar barreiras de proteção.

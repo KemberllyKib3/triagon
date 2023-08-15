@@ -9,7 +9,7 @@
 
 <img src="https://i.pinimg.com/564x/1b/00/79/1b0079c7a3e4d3b433bca7c48072aeeb.jpg" alt="Bruxo Invocador" style="height: 400px; width:300px;"/>
 
-## Habilidades Únicas
+## Habilidades Única
 - `Invocação das Sombras`: O invocador consegue, gastando sua rodada, invocar uma criatura de nível de desafio `2` ou menos para segui-lo por até `6 horas`. O custo é de `1` rodada por criatura, podendo invocar no máximo `4` criaturas.
 
 ## Evoluções

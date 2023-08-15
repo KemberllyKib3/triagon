@@ -7,6 +7,8 @@
 - **Armaduras:** Leves, médias e pesadas
 - **Armas:** Lâminas de dupla empunhadura ou Arcos-Escudo
 
+<img src="" alt="Samurai Kensei" style="height: 400px; width:300px;"/>
+
 ## Habilidades Únicas
 - `Guarda Marcial`: O Kensei pode escolher sua guarda marcial no início da batalha podendo alternar durante a batalha gastando sua ação.
   - **Postura do Dragão:** Aprofundando-se na luta brutal, o kensei concentra sua energia para golpear com ferocidade. Isso resulta em um bônus de `+2` em suas jogadas de acerto e dano, mas também acarreta uma penalização de `-2` em sua defesa física.

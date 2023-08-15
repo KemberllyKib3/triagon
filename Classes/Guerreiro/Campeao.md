@@ -7,6 +7,8 @@
 - **Armaduras:** Todas
 - **Armas:** Armas físicas e escudos
 
+<img src="https://i.pinimg.com/564x/fb/49/b1/fb49b12ca4df86ebbab111595b6eeaa7.jpg" alt="Guerreiro Campeão" style="height: 400px; width:300px;"/>
+
 ## Habilidade Única
 `Surto de Ação`: O guerreiro pode refazer sua ação logo em seguida, podendo usar uma vez a cada Batalha.
 

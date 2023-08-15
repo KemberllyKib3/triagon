@@ -7,7 +7,7 @@
 - **Armaduras:** Leves e Médias
 - **Armas:** Lanças, Flâmulas, Arcos e Espadas
 
-<img src="https://i.pinimg.com/564x/74/28/f5/7428f5604b3bfba14801dc3c15c61cc8.jpg" alt="Mestre das Montarias" style="height: 400px; width:300px;"/>
+<img src="https://i.pinimg.com/564x/08/c3/94/08c3947463757d2d021f3bb06e5943a1.jpg" alt="Mestre das Montarias" style="height: 400px; width:300px;"/>
 
 ## Notas de Classe
 - O mestre das montarias só pode coordenar os ataques e usar suas habilidades caso esteja montado.

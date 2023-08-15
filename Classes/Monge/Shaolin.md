@@ -7,6 +7,8 @@
 - **Armaduras:** Não utiliza
 - **Armas:** Não utiliza
 
+<img src="" alt="Monge Shaolin" style="height: 400px; width:300px;"/>
+
 ## Habilidade Únicas
 `Domínio Natural`: O shaolin aprende em sua primeira forma a controlar seu chi no domínio de um elemento natural, ficando a sua escolha qual elemento ele começa:
 - **Ar:** Consegue redirecionar projéteis simples (Físicos e Mágicos) lançados em sua direção.

@@ -7,6 +7,8 @@
 - **Armaduras:** Robes leves
 - **Armas:** Itens de Conjuração
 
+<img src="" alt="Senhor do Enxame" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 `Nuvem de Praga:` Como ação bônus, o Necromante libera o enxame para lutar ao seu lado, concedendo `+2` em acerto e danos. O necromante poderá estocar enxames.
 

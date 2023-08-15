@@ -7,6 +7,8 @@
 - **Armas:** Foco de Ligação Mágico, armas mágicas
 - **Armaduras:** Robes Leves
 
+<img src="https://i.pinimg.com/564x/fa/b0/76/fab076a493b3871f83dd57f841381094.jpg" alt="Dracomante" style="height: 400px; width:300px;"/>
+
 ## Notas de Classe
 O vínculo entre o dracomante e seu dragão não permite que o mesmo lute montado, mas pode ser usado para transporte, nesse caso, o dragão fica impossibilitado de usar ataques.
 

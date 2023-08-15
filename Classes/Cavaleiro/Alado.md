@@ -7,6 +7,8 @@
 - **Armaduras:** Leves e Médias
 - **Armas:** Lanças, Flâmulas, Arcos e Espadas
 
+<img src="https://i.pinimg.com/564x/69/24/a5/6924a56597be3e20aea010aa4a07f11c.jpg" alt="Cavaleiro Alado" style="height: 400px; width:300px;"/>
+
 ## Notas de Classe
 - O cavaleiro alado não pode desmontar de sua montaria até estar a uma altura de 1,5m do chão e ao desmontar o mesmo perde o controle sobre a ação de sua montaria.
 
