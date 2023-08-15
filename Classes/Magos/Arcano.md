@@ -7,7 +7,7 @@
 - **Armaduras:** Robes Mágicos.
 - **Armas:** Focos Arcanos.
 
-<img src="" alt="Mago Arcano" style="height: 400px; width:300px;"/>
+<img src="https://i.pinimg.com/564x/fd/d8/fb/fdd8fbfa0d6b9bde9b6f39ceacc01d40.jpg" alt="Mago Arcano" style="height: 400px; width:300px;"/>
 
 ## Habilidades Única
 - `Canalização Elemental`: O mago gasta seu turno para conjurar magias mais poderosas do que o comum, concentrando todo seu conhecimento.

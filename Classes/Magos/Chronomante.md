@@ -7,7 +7,7 @@
 - **Armaduras:** Robes Mágicos.
 - **Armas:** Focos Arcanos.
 
-<img src="" alt="Mago Chronomante" style="height: 400px; width:300px;"/>
+<img src="https://i.pinimg.com/564x/4e/4a/37/4e4a37f70737d7d178df5f4a1233b45b.jpg" alt="Mago Chronomante" style="height: 400px; width:300px;"/>
 
 ## Habilidades Únicas
 - `Domínio Temporal`: O mago consegue utilizar a magia do tempo em um nível básico de canalização, pode ser usado 1 vez por descanso.

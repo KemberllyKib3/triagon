@@ -7,7 +7,7 @@
 - **Armaduras:** Nenhuma
 - **Pode usar:** Lâminas de mão única
 
-<img src="" alt="Samurai Ronin" style="height: 400px; width:300px;"/>
+<img src="https://i.pinimg.com/564x/bb/ba/91/bbba9159a0fe494782245639ce09851a.jpg" alt="Samurai Ronin" style="height: 400px; width:300px;"/>
 
 ## Habilidades Única
 `Sem Honra:` O Ronin, com sua aguçada reação, tem a habilidade de contra-atacar inimigos que falham em atingi-lo.
