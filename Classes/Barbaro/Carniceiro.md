@@ -6,6 +6,8 @@
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armas:** Armas de duas mãos ou dupla empunhadura de armas simples
 
+<img src="https://i.pinimg.com/564x/fc/dd/36/fcdd36b8ea2ad07e737e1428013a56af.jpg" alt="Carniceiro" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 `Fúria`: Os Bárbaros ganham sua fúria logo ao seu 1º nível, recebendo a bonificação de `1d8` de dano por ataque durante `3` rodadas, podendo prolongar a duração em `1` rodada caso o dado de ataque acerte um crítico natural.
 

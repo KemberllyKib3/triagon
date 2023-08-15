@@ -6,6 +6,8 @@
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armas:** Armas físicas e escudos
 
+<img src="" alt="Guerreiro General" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 `Olhar Treinado`: Concede o bônus de `Proficiência` do general para cada aliado ao iniciar um combate, podendo ser usado uma vez por batalha.
 

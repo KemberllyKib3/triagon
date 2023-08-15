@@ -6,6 +6,8 @@
 - **Defesa mágica base:** `8 + Sabedoria`
 - **Armas:** Armas de duas mãos ou dupla empunhadura de armas simples
 
+<img src="https://i.pinimg.com/564x/06/97/1c/06971c28e4da162b41bee89d44687ced.jpg" alt="Arauto" style="height: 400px; width:300px;"/>
+
 ## Habilidade Única
 `Fúria`: Os Bárbaros ganham sua fúria logo no nível 1, sua fúria concede resistência em sua Defesa Física lhe dando a habilidade de receber dano físico pela metade e caso acerte um golpe crítico o Arauto pode rolar um dado de vida extra temporária enquanto estiver em fúria. Sua fúria dura `3` rodadas.
 

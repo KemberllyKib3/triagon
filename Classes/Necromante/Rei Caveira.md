@@ -6,6 +6,8 @@
 - **Defesa mágica base:** `8 + Inteligência`
 - **Armas:** Itens de Conjuração
 
+<img src="" alt="Rei Caveira" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 - `Senhor da Morte:` Concede a um morto vivo o poder de reinar em seu catalisador de alma. Ganhando `1` ponto de vida por alma devorada.
 

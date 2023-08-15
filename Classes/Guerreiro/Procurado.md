@@ -6,6 +6,8 @@
 - **Defesa mágica:** `8 + Inteligência`
 - **Armas:** Armas físicas e escudos
 
+<img src="" alt="Guerreiro Procurado" style="height: 400px; width:300px;"/>
+
 ## Habilidades Única
 `Presença do Guardião`: Ao entrar em uma batalha, o procurado emana uma aura de medo que aterroriza `1d6` inimigos. Caso eles falhem em um teste de resistência de `Sabedoria`, serão amedrontados, e o primeiro ataque do procurado receberá `+2` de acerto.
 

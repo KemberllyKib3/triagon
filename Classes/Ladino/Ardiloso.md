@@ -31,7 +31,7 @@
 - *Lâminas Pontuais* podem ser usadas em ação bônus, não precisando de `1` turno de foco e o bônus de `3d6` de dano.
 
 ### Nível 15
-- `Assassinato Sanguinário`: Os Ladinos enquanto furtivos podem desferir ataques letais que causam dano extra de `5d6`.
+- `Assassinato Sanguinário`: Os Ladinos enquanto furtivos podem desferir ataques letais que causam dano extra de `4d6`.
 
 ### Nível 19
 - O Ladino pode aproveitar seus golpes precisos usando *Assassinato Sanguinário* para infligir ferimentos graves ao alvo `1` vez por descanso longo.
