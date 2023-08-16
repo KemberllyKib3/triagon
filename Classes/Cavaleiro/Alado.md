@@ -4,7 +4,6 @@
 - **Dado de vida:** `d10`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
-- **Armaduras:** Leves e Médias
 - **Armas:** Lanças, Flâmulas, Arcos e Espadas
 
 <img src="https://i.pinimg.com/564x/69/24/a5/6924a56597be3e20aea010aa4a07f11c.jpg" alt="Cavaleiro Alado" style="height: 400px; width:300px;"/>

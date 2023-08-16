@@ -5,7 +5,6 @@
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
 - **Armas principais:** Instrumentos musicais, focos arcanos
-- **Armaduras:** Leves
 
 ## Habilidade Única
 **Trilha Sonora:** Ao presenciar uma briga em uma taverna, o taverneiro não se contém e começa uma melodia eufórica e cativante, na qual todos os que estão fora da briga devem fazer um teste de sabedoria para não entrar nela.

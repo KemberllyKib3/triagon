@@ -5,7 +5,6 @@
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
 - **Armas principais:** Instrumentos musicais, focos arcanos
-- **Armaduras:** Leves
 
 ## Habilidade Únicas
 - `Trilha de Batalha`: Dependendo da melodia, o Bardo Épico consegue diferentes estilos de batalha. Ao iniciar o combate, o bardo deve escolher sua melodia e estará em um estado de extrema concentração. Caso seja atacado, falhará automaticamente na concentração e precisará de `2` rodadas para recuperar a melodia. O mesmo tempo será aplicado para trocar de melodias.

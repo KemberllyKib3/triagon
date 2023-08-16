@@ -4,7 +4,7 @@
 - **Dado de vida:** `d12`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Inteligência`
-- **Pode utilizar:** Armas mágicas e itens conjuradores
+- **Armas:** Armas mágicas e itens conjuradores
 
 <img src="" alt="Mestre das Maldições" style="height: 400px; width:300px;"/>
 

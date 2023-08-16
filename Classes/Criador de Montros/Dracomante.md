@@ -5,7 +5,6 @@
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
 - **Armas:** Foco de Ligação Mágico, armas mágicas
-- **Armaduras:** Robes Leves
 
 <img src="https://i.pinimg.com/564x/fa/b0/76/fab076a493b3871f83dd57f841381094.jpg" alt="Dracomante" style="height: 400px; width:300px;"/>
 

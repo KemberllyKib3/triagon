@@ -4,7 +4,6 @@
 - **Dado de vida:** `d10`
 - **Defesa física base:** `8 + Constituição`
 - **Defesa mágica base:** `8 + Sabedoria`
-- **Armaduras:** Leves e Médias
 - **Armas:** Lanças, Flâmulas, Arcos e Espadas
 
 <img src="https://i.pinimg.com/564x/08/c3/94/08c3947463757d2d021f3bb06e5943a1.jpg" alt="Mestre das Montarias" style="height: 400px; width:300px;"/>
