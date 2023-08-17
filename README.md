@@ -2,6 +2,9 @@
 **Uma aventura de RPG Medieval passada em um mundo fantasia. By Arthur Santos**
 
 
+
+
+
 ### Entenda sobre o [sistema](https://github.com/KemberllyKib3/triagon/tree/main/Sistema): 
 - [Ver Joinhas de Inspiração](https://github.com/KemberllyKib3/triagon/tree/main/Sistema/Joinhas%20de%20Inspiração.md)
 - [Ver Economia](https://github.com/KemberllyKib3/triagon/tree/main/Sistema/Economia.md)
