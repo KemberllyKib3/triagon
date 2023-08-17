@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/564x/4e/4a/37/4e4a37f70737d7d178df5f4a1233b45b.jpg" alt="Mago Chronomante" style="height: 400px; width:300px;"/>
 
 ## Habilidades Únicas
-- `Domínio Temporal`: O mago consegue utilizar a magia do tempo em um nível básico de canalização, pode ser usado 1 vez por descanso.
+- `Domínio Temporal`: O mago consegue utilizar a magia do tempo em um nível básico de canalização.
   - **Visão do Passado:** Ao tocar um objeto, o mago tem acesso a informações de momentos anteriores que envolveram aquele objeto.
   - **Ruptura Temporal:** Permite distorcer o tempo de um alvo, afetando os movimentos e causando desvantagens em ações.
   - **Impulso Temporal:** Permite que um aliado receba um bônus de Sabedoria do Mago na sua iniciativa de combate.
