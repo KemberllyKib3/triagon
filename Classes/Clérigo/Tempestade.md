@@ -1,38 +1,35 @@
 # Clérigo da Tempestade
-**Ensinados que seu espírito deve ser calmo e também destrutivo como uma grande tempestade recheada de trovões, consegue aplicar habilidades de cura, porém seu grande forte é o seu poder de luta e proteção tempestuoso, até mesmo protegendo seu corpo com grandes trovões.**
 
-- **Dado de vida:** `d8`
-- **Defesa física base:** `8 + Constituição`
-- **Defesa mágica base:** `8 + Inteligência`
-- **Armas:** Martelos, maças e armas de conjuração
+Os Clérigos da Tempestade são devotos do Grande Deus Dragão da Tempestade, canalizando sua vontade e poder para trazer influência divina à terra. Eles são os instrumentos escolhidos do Deus da Tempestade, capazes de conjurar raios, trovões e ventos para causar devastação em seus inimigos e proteção aos seus aliados.
 
-## Habilidades Única
-- `Benção dos Raios`: O Clérigo da Tempestade consegue cobrir seu corpo com relâmpagos e trovões para se proteger de golpes físicos aumentando sua CA (`Proficiência`).
+- **Dado de Vida:** `d8`
+- **Defesa Física Base:** 8 + Constituição
+- **Defesa Mágica Base:** 8 + Carisma
+- **Armas:** Martelos, Espadas ou Maças de batalha
 
-## Evoluções
+## Habilidade Única
+- `Portador da Tempestade`: O Clérigo da Tempestade pode envolver seu corpo com relâmpagos e trovões, trazendo o poder do Deus da Tempestade para operar um milagre. Isso resulta em um acordo divino que deve ser cumprido (`1` uso por descanso longo).
+
 ### Nível 3
-- `Força Energética`: O Clérigo da Tempestade pode utilizar seu espírito tempestuoso para curar `1` aliado que estiver em apuros em `2d6 + Carisma`.
+- `Ira dos Relâmpagos`: O Clérigo convoca a fúria do seu Deus, canalizando uma chuva de relâmpagos sobre seus inimigos. Eles ficam atordoados por `1d6` rodadas, sujeitos a um teste de `Constituição` (CD igual ao `Carisma` do Clérigo), além de sofrer `2d6` de dano. A habilidade dura `3` rodadas com concentração.
 
 ### Nível 5 
-- `Proteção da Trovoada`: O Clérigo da Tempestade tem a capacidade de gerar escudos de puro trovão com suas mãos para proteger a todos que estiverem nas suas costas, concedendo `5` de vida temporária em sua reação, não cumulativa.
+- `Benção dos Ventos Tempestuosos`: O Clérigo canaliza a benção do Deus da Tempestade para criar uma área de ventos fortes por `1d6` rodadas. Inimigos têm seu deslocamento reduzido em `3m`, enquanto aliados ganham `3m` adicionais de deslocamento.
 
-### Nível 6
-- A *Força Energética* do Clérigo agora pode curar `2` aliados.
-
-### Nível 9
-- A *Força Energética* do Clérigo agora pode curar `3` aliados.
-- O Clérigo da Tempestade pode abençoar um aliado com sua *Proteção da Trovoada* ou fortalecer sua própria proteção para `10` de vida temporária.
+### Nível 8
+A habilidade *Ira dos Relâmpagos* se torna mais poderosa, causando `3d6` de dano.
 
 ### Nível 11
-- A *Força Energética* do Clérigo agora pode curar `4` aliados.
+A intensidade dos *Ventos Tempestuosos* aumenta. Inimigos na área devem fazer um teste de resistência de `Constituição` para não perderem sua ação.
 
-### Nível 12
-- `Thunderbolt`: O Clérigo da Tempestade pode soltar raios com sua arma imbuída em trovões.
-- Sua *Proteção da Trovoada* se torna mais poderosa, protegendo o aliado com `15` de vida temporária.
+### Nível 14
+A habilidade *Ira dos Relâmpagos* se torna ainda mais poderosa, causando `4d6` de dano.
 
-### Nível 19 
-- `Rogar ao Trovão`: O Clérigo da Tempestade une toda sua fé para sua divindade, fazendo com que ela o auxilie em campo de batalha, trazendo um relâmpago real, causando `7d8` de dano (CD 18).
+### Nível 16 - Benção dos Ventos Tempestuosos
+Os ventos abraçam e abençoam os aliados, concedendo a eles uma ação extra.
+
+### Nível 18 
+- `Rogar ao Trovão`: O Clérigo da Tempestade une toda sua fé para se tornar um avatar temporário de Tempestwing. Ele conjura um relâmpago real no campo de batalha, causando dano de `60 + Nível do Clérigo` em uma área de `3,5m`.
 
 ## **Observações:**
-- Após o uso do *Rogar ao Trovão*, o Clérigo deverá fazer um teste de `Constituição`.
-- *Rogar ao Trovão* só poderá ser usada novamente após o Clérigo cultuar sua Divindade durante o Descanso Longo.
+- Após o uso de *Rogar ao Trovão*, o Clérigo deve fazer um teste de `Constituição` (`CD20`). Em caso de falha, sofre `2` pontos de exaustão até o próximo descanso longo.- *Rogar ao Trovão* só pode ser usada novamente após o Clérigo cultuar sua Divindade através de um ritual conforme ensinado nos dogmas.

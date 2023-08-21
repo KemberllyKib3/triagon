@@ -36,7 +36,7 @@
 - O Kensei ao bloquear um golpe usando *Proteção de Honra*, pode tentar desarmar o adversário, lançando sua arma a uma distância de `6m`. O alvo deve superar um teste de resistência de `Força`, com uma CD igual à `Força` do Kensei.
 
 ### Nível 18
-- Contra um Samurai Ronin, o Kensei ganha a habilidade de usar três posturas ao mesmo tempo, sem sofrer penalidade das posturas.
+- Contra um Samurai Ronin, o Kensei ganha a habilidade de usar duas posturas ao mesmo tempo, sem sofrer penalidade das posturas.
 
 ### Nível 20
 - O Mestre Samurai agora consegue combinar duas posturas ao mesmo tempo.

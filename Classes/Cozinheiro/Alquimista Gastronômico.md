@@ -42,5 +42,5 @@ O cozinheiro alquimista pode criar uma poção única e poderosa, refletindo sua
 - **Nível 6 - Infusão Mágica:** Você pode infundir magia em uma arma ou item.
 - **Nível 10 - Transmutação Arcana:** Você pode transformar temporariamente um objeto em outro.
 
-## Conclusão
+## **Observações** 
 A classe de Cozinheiro Alquimista traz uma abordagem única para a criação de poções e efeitos mágicos através da culinária e da alquimia. Sua habilidade de misturar ingredientes para produzir resultados mágicos adiciona uma nova dimensão ao mundo de aventuras de RPG, permitindo que os jogadores explorem uma abordagem criativa e saborosa para enfrentar desafios.
