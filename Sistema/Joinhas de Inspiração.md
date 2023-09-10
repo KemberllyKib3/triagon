@@ -18,6 +18,7 @@ Após a sessão da aventura, reserve um tempo para uma discussão em grupo. Cada
 - `Verdadeiro <Raça>` Bônus de +2 concedido por interpretar muito bem os traços da raça.
 - `Verdadeiro <Classe>` Bônus de +2 concedido por interpretar muito bem as habilidades da classe.
 - `Familiar/Fraterno` Bônus de +2 concedido por interpretar muito bem o relacionamento com outro personagem.
+- `Metagaming` Penalidade de -2 por ter feito metagaming durante a sessão.
 - `Empata Play` Penalidade de -2 por ter atrapalhado muito durante a sessão.
 - `Contra Lore` Penalidade de -2 por ter ido contra a lore do personagem.
 - `Barrichello` Penalidade de -2 por ter chegado muito atrasado.
