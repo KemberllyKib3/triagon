@@ -11,6 +11,7 @@ Após a sessão da aventura, reserve um tempo para uma discussão em grupo. Cada
 ## Categorias de Reconhecimento
 - `Ótima Roleplay` Bônus de +2 concedido por interpretar muito bem o personagem.
 - `Estratégia Brilhante` Bônus de +2 concedido por uma jogada muito inteligente.
+- `Salva-vidas` Bônus de +2 por salvar os coleguinhas.
 - `Tiozão` Bônus de +2 concedido por uma ótima piada dentro da roleplay.
 - `Valesca Popozuda` Bônus de +2 concedido por uma roleplay filosófica.
 - `Jogador de Vôlei` Bônus de +2 concedido por ter tido uma ótima sacada.
