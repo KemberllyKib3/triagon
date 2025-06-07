@@ -30,6 +30,9 @@ Após a sessão da aventura, reserve um tempo para uma discussão em grupo. Cada
 - **02 Joinhas:** Pequeno bônus (por exemplo: +1 de acerto ou +1 de dano).
 - **04 Joinhas:** Bônus moderado (por exemplo: +2 de acerto ou +1d4 de dano).
 - **06 Joinhas:** Re-rolagem de um dado (qualquer dado, não apenas dano).
+- **06 Joinhas:** Sugerir uma ideia ou virada criativa ao GM.
 - **08 Joinhas:** Conceder vantagem em um teste.
-- **10 Joinhas:** Sugerir uma ideia ou virada criativa ao GM.
+- **08 Joinhas:** Conceder desvantagem a um teste do GM.
+- **10 Joinhas:** Melhorar uma loot box.
 - **12 Joinhas:** Forçar um resultado crítico em um momento crucial.
+- **20 Joinhas:** Criar um fuga narrativa em momentos críticos (discutir com o Mestre).
